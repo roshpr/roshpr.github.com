@@ -5,6 +5,8 @@ $gray-4: #767676 !default;
 $gray-5: #515151 !default;
 $gray-6: #313131 !default;
 
+$yellow: #f4bf75 !default;
+
 $red: #ac4142 !default;
 $orange: #d28445 !default;
 $yellow: #f4bf75 !default;
@@ -17,7 +19,8 @@ $root-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxy
 $root-font-size: 1rem !default;
 $root-line-height: 1.5 !default;
 
-$body-color: $gray-5 !default;
+//$body-color: $gray-5 !default;
+$body-color: $yellow !default;
 $body-muted: $gray-4 !default;
 $body-bg: #fff !default;
 $link-color: $blue !default;
