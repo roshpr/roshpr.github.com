@@ -1,3 +1,26 @@
-theme: jekyll-theme-hacker
-title: Welcome to Rosh PR source hub
-description: An end-to-end product developer. Having wide variety of experience in multiple technologies. Working on architecting & deploying Juniper products on AWS.
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Welcome to source hub
+tagline:          'Examples for all'
+description:      ' An end-to-end product developer. Having wide variety of experience in multiple technologies. Working on architecting & deploying Juniper products on AWS.'
+url:              http://roshpr.github.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
