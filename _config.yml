@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Rosh PR
+tagline:          'DevOps Source hub'
+description:      'An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying <a href="https://www.juniper.net/us/en/solutions/sd-wan-sd-lan/" target="_blank">CSO SDWan</a> solution on AWS.'
 url:              https://roshpr.github.com
 baseurl:          '/roshpr.github.com'
                   # the optional subpath of your site, e.g. "/blog"
