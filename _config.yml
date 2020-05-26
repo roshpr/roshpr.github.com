@@ -7,11 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Welcome to source hub
-tagline:          'Examples for all'
-description:      ' An end-to-end product developer. Having wide variety of experience in multiple technologies. Working on architecting & deploying Juniper products on AWS.'
-url:              http://roshpr.github.com
-remote_theme: https://github.com/poole/hyde
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
