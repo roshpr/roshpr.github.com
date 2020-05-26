@@ -11,6 +11,7 @@ title:            Welcome to source hub
 tagline:          'Examples for all'
 description:      ' An end-to-end product developer. Having wide variety of experience in multiple technologies. Working on architecting & deploying Juniper products on AWS.'
 url:              http://roshpr.github.com
+remote_theme: https://github.com/poole/hyde
 baseurl:          /
 
 author:
