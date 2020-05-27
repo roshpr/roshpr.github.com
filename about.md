@@ -3,15 +3,15 @@ layout: page
 title: About
 sidebar_link: true
 ---
-
 <div>
-Click <a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> for Linkedin profile.
-<img src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me"> 
-</div>
-<div>
-An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying CSO SDWan solution on AWS.
-
-
+    <div style="float:left;">
+    Click <a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> for Linkedin profile.
+    <br>
+    <img  src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me"> 
+    </div>
+    <div style="float:right;">
+    An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying CSO SDWan solution on AWS.
+    </div>
 </div>
 <p class="message">
 Post graduate in computer applications with 15+ years of experience in wide variety of roles like Full stack developer, 
