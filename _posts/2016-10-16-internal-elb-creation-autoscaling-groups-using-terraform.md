@@ -52,7 +52,7 @@ resource "aws_elb" "ielb" {
 
 ### Auto scaling group
 
-```
+```hcl
 resource "aws_autoscaling_group" "autoscaling" {
   name = "autoscale"
   availability_zones = ["Availability zones"]
