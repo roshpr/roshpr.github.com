@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello Hydeout
+categories:
+  - aciform
 excerpt_separator:  <!--more-->
 ---
 
