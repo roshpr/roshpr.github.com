@@ -5,7 +5,10 @@ sidebar_link: true
 ---
 
 <div>
-<img src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me"> An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying CSO SDWan solution on AWS.
+<img src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me"> 
+</div>
+<div>
+An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying CSO SDWan solution on AWS.
 
 Linkedin<a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> profile
 </div>
