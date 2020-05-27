@@ -21,7 +21,7 @@ access port permissions.
 
 ### Internal ELB
 
-```hcl-terraform
+```hcl
 resource "aws_elb" "ielb" {
   name = "ielb"
   security_groups = ["add security group id"]
