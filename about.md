@@ -15,7 +15,7 @@ Linkedin<a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </
 Post graduate in computer applications with 15+ years of experience in wide variety of roles like Full stack developer, 
 DevOps engineer, AWS solution architect and Systems engineer.
 </p>
-<p>
+<p class="message">
   Having good amount of experience delivering projects in integrated environment in global operation model. 
   Involved in analyzing critical business requirement, identifying deficiencies and provide innovative 
   solutions to meet business goals.
