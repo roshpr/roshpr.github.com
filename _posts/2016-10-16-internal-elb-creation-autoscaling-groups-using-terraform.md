@@ -57,7 +57,7 @@ resource "aws_autoscaling_group" "autoscaling" {
   name = "autoscale"
   availability_zones = ["Availability zones"]
   vpc_zone_identifier = ["Private subnets"]
-  max_size = 5"
+  max_size = "5"
   min_size = "3"
   desired_capacity = "4"
   default_cooldown = 30
