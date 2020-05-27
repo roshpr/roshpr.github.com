@@ -1,0 +1,15 @@
+<div id="tags-page">
+  <div class="tags-list">
+    <ul class="posts-list">
+    {% for repository in roshpr.github.public_repositories %}
+        <li>
+          <h3>
+              <a href="{{ repository.html_url }}" target="_blank">
+                    <small>[{{ repository.name }}]</small>
+              </a>
+          </h3>
+        </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
