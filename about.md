@@ -5,9 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying CSO SDWan solution on AWS.
+<br>
+Linkedin<a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> profile
 </p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
