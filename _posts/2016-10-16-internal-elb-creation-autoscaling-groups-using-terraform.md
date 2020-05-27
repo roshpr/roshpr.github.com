@@ -7,9 +7,7 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 
-<img src="http://roshpr.net/blog/wp-content/uploads/2016/10/terraform_elb.png" alt="Internal ELB creation for autoscaling groups using terraform">
-
-![placeholder](http://roshpr.net/blog/wp-content/uploads/2016/10/terraform_elb.png "Large example image")
+![placeholder](http://roshpr.net/blog/wp-content/uploads/2016/10/terraform_elb.png "Internal ELB creation for autoscaling groups using terraform")
 
 ### Terraform example with ELB
 
@@ -23,7 +21,7 @@ access port permissions.
 
 ### Internal ELB
 
-```scss
+```HCL
 resource "aws_elb" "ielb" {
   name = "ielb"
   security_groups = ["add security group id"]
@@ -54,7 +52,7 @@ resource "aws_elb" "ielb" {
 
 ### Auto scaling group
 
-```
+```HCL
 resource "aws_autoscaling_group" "autoscaling" {
   name = "autoscale"
   availability_zones = ["Availability zones"]
