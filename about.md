@@ -9,3 +9,12 @@ An end-to-end product developer and cloud Architect specializing in deploying en
 <br>
 Linkedin<a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> profile
 </p>
+<p class="message">
+Post graduate in computer applications with 14 years of experience in wide variety of roles: application design and development, aws solution architect and systems engineer. Having good amount of experience delivering projects in integrated environment in global operation model. Involved in analyzing critical business requirement, identifying deficiencies and provide innovative solutions to meet business goals.
+</p>
+<p class="message">
+Specializing in AWS cloud application development and deployment. Architecting and implementing deployment of enterprise applications of cloud.
+</p>
+<p class="message">
+Technology experience in AWS, Terraform, Microservices architecture & development, REST Webservice, Java, Python, Saltstack, Ansible, Javascript, Bash, Wordpress site hosting. 
+</p>
