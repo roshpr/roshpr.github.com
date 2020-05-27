@@ -9,10 +9,11 @@ sidebar_link: true
     <br>
     <img  src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me"> 
     </div>
-    <div style="float:right;">
-    An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying CSO SDWan solution on AWS.
-    </div>
 </div>
+<p class="message">
+An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying CSO SDWan solution on AWS.
+</p>
+<div>
 <p class="message">
 Post graduate in computer applications with 15+ years of experience in wide variety of roles like Full stack developer, 
 DevOps engineer, AWS solution architect and Systems engineer.
@@ -29,3 +30,4 @@ of enterprise applications of cloud.
 <p class="message">
 Technology experience in AWS, Terraform, Microservices architecture & development, REST Webservice, Java, Python, Saltstack, Ansible, Javascript, Bash, Wordpress site hosting. 
 </p>
+</div>
