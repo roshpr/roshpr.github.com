@@ -21,7 +21,7 @@ access port permissions.
 
 ### Internal ELB
 
-```HCL
+```
 resource "aws_elb" "ielb" {
   name = "ielb"
   security_groups = ["add security group id"]
@@ -52,7 +52,7 @@ resource "aws_elb" "ielb" {
 
 ### Auto scaling group
 
-```HCL
+```
 resource "aws_autoscaling_group" "autoscaling" {
   name = "autoscale"
   availability_zones = ["Availability zones"]
