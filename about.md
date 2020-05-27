@@ -12,28 +12,10 @@ Linkedin<a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </
 
 </p>
 <p class="message">
-Post graduate in computer applications with 15+ years of experience in wide variety of roles like
-  <ol class="posts-list">
-      <li>
-            Full stack developer
-            <ul>
-                <li>
-                    UI development: EXTJS, Javascript, Bootstrap
-                </li>
-                <li>
-                    Backup development: C, Java, PHP, Python etc
-                </li>  
-            </ul>      
-      </li>
-      
-      <li>
-            AWS solution architect
-      </li>
-      <li>
-            DevOps engineer
-      </li>
-      
-  </ol>
+Post graduate in computer applications with 15+ years of experience in wide variety of roles like Full stack developer, 
+DevOps engineer, AWS solution architect and Systems engineer.
+</p>
+<p>
   Having good amount of experience delivering projects in integrated environment in global operation model. 
   Involved in analyzing critical business requirement, identifying deficiencies and provide innovative 
   solutions to meet business goals.
