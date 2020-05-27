@@ -6,7 +6,7 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 
-![placeholder](../_images/visualize_vpc_traffic.jpeg "Visualizing AWS VPC Network access statistics")
+![placeholder](https://github.com/roshpr/roshpr.github.com/blob/master/_images/visualize_vpc_traffic.jpeg "Visualizing AWS VPC Network access statistics")
 
 
 Most of the enterprises once after deploying their application on AWS VPC network have 
