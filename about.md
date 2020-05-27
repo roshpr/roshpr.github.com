@@ -8,7 +8,7 @@ sidebar_link: true
 An end-to-end product developer and cloud Architect specializing in deploying enterprise grade products on Public clouds. Sole architect of deploying CSO SDWan solution on AWS.
 <br>
 Linkedin<a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> profile
-![placeholder](https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true "me")
+<img src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me">
 
 </p>
 <p class="message">
