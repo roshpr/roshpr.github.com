@@ -3,9 +3,9 @@ layout: page
 title: About
 sidebar_link: true
 ---
+Click <a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> for Linkedin profile.
 <div>
     <div style="float:left;width: 30%">
-    Click <a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> for Linkedin profile.
     <br><br>
     <img  src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me"> 
     </div>
