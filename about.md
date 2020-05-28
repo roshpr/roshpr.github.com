@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 Click <a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> for Linkedin profile.
 <div>
-    <div style="float:left;margin: auto;">
+    <div style="float:left;margin: auto;padding: 10px;">
     <img  src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me"> 
     </div>
 </div>
