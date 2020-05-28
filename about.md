@@ -4,9 +4,9 @@ title: About
 sidebar_link: true
 ---
 <div>
-    <div style="float:left;">
+    <div style="float:left;width: 30%">
     Click <a href="https://www.linkedin.com/in/roshpr/" target="_blank"> roshpr </a> for Linkedin profile.
-    <br>
+    <br><br>
     <img  src="https://github.com/roshpr/roshpr.github.com/blob/master/_images/thump_me.jpeg?raw=true" alt="me"> 
     </div>
 </div>
